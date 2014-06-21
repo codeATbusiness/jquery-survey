@@ -9,7 +9,7 @@ You can load some survey items fom custom **ARRAY** data, **JSON** files or usin
    + [jQuery](https://jquery.com)
    + [Twitter Bootstrap 3.X](http://getbootstrap.com)
 
-    These two requirements was linked to the index.php demo project using their CDN links. You may use this links or your local files.
+    These two requirements was linked to the index.php demo project using their CDN links. You may use these links or your local files.
 
 ###Usage of the jQuery Survey Plugin
 1. Download all repository content to your computer or download the main files within the `dist` folder (see Step 2)
