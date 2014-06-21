@@ -112,7 +112,7 @@
             var sourceData = this._getSourceData();
             that = this;
             $.each(sourceData, function(k, v) {
-                that.tableBody += "<tr><td>" + v + "</td>";
+                that.tableBody += "<tr><td style='font-weight:bold;'>" + v + "</td>";
                 for (var i = 0; i < optionsNumber; i++) {
                     that.tableBody += "<td style='text-align: center;'>" +
                             "<input type='radio' data-survey='" + that.options.id + "' data-question='" + (k + 1) + "' data-opt='" + (i + 1) + "'>" +
