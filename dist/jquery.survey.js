@@ -1,7 +1,7 @@
 /*****************************************************************************************************
  * codeATBusiness | jQuery Survey Plugin 1.0.0
  *
- * Build custom Survey based on JQuery and Twitter Bootstrap
+ * Build custom Surveys based on JQuery and Twitter Bootstrap
  *
  * @author          codeATBusiness
  * @copyright       Copyright (c) 2014 codeATBusiness.
