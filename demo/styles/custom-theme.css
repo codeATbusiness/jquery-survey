@@ -1,0 +1,12 @@
+/**=================================================================
+ * Author      | codeATBusiness (2014)                             *
+ * Proyect     | jQuery Survey Plugin                              *
+ * File        | custom-theme.css                                  *
+ * Description | Custom Theme for the jQuery Survey Plugin         *
+=================================================================**/
+
+/*Overriding the behaviour of the title.class from the jQuery Survey Plugin*/
+.custom-title-style{
+    font-weight: bold;
+    color: red !important;
+}

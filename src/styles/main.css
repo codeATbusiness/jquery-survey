@@ -1,0 +1,19 @@
+/**=================================================================
+ * Author      | codeATBusiness (2014)                             *
+ * Proyect     | jQuery Survey Plugin                              *
+ * File        | main.css                                          *
+ * Description | Default CSS Styles for the plugin                 *
+=================================================================**/
+
+body{
+    font-family: "Source Sans Pro";
+}
+
+.surv-title-default{
+    font-weight: bold;
+    color: cadetblue;
+}
+
+.surv-check-default{
+    font-weight: bold;
+}
