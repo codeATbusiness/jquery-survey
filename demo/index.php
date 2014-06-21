@@ -57,7 +57,7 @@
                     optionsNumber: 8,
                     footer: true
                 });
-                
+
                 //Getting the array of the Survey Results
                 //console.log($('#custom-survey').survey('toArray'));
 
